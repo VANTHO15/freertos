@@ -1,0 +1,9 @@
+main.c:74:1:__io_putchar	16	static
+main.c:87:5:main	72	static
+main.c:162:6:SystemClock_Config	72	static
+main.c:201:13:MX_USART1_UART_Init	8	static
+main.c:234:13:MX_GPIO_Init	40	static
+main.c:266:6:TaskvanTho	24	static
+main.c:296:6:StartDefaultTask	24	static
+main.c:327:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:344:6:Error_Handler	4	static,ignoring_inline_asm
